@@ -3,7 +3,7 @@ function createGame(player1, hour, player2) {
   <li>
       <img
         src="./assets/paises/icon=${player1}.svg"
-        alt="Imagem da ${player1} do pais Quatar"
+        alt="Imagem da bandeira do pais ${player1}"
       />
       <strong>${hour}</strong>
       <img
